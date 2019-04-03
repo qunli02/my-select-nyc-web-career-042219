@@ -8,7 +8,8 @@ def my_select(collection)
     i += 1
   end
  new
+ 
+ puts collection
+puts new
 end
 
-puts collection
-puts new
