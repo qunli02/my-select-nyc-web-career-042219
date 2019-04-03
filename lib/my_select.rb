@@ -9,3 +9,6 @@ def my_select(collection)
   end
  new
 end
+
+puts collection
+puts new
